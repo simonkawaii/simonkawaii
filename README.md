@@ -15,21 +15,21 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  
-## Languages and Tools:
+## Languages and Tools: :hammer_and_wrench:	
  
-### Base 
+### Base :abacus:	
    
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,svg"/>
  
-### Tech
+### Tech :atom_symbol:	
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,firebase,git,postman"/>
  
-### Design tools
+### Design tools :art:	
  
 <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" />
   
-### Environment
+### Environment :gear:	
 
 <img src="https://skillicons.dev/icons?i=vscode,vite,visualstudio,webpack"/>
 
