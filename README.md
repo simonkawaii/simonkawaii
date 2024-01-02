@@ -3,6 +3,6 @@
       I'm aspiring Frontend Dev 👨‍💻 and passionate designer 🎨 from Poland
     </h3>
 
-    - 🔭 I’m currently working on **Job offer hub application**
+    🔭 I’m currently working on **Job offer hub application**
 
  
