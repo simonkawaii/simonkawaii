@@ -40,6 +40,7 @@
  
  - Complex SVG animations
  - Firebase with firestore
+ - PHP Laravel
      
 ### Working on: :briefcase:	
   - Job offer hub application with NextJS
