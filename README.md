@@ -1,7 +1,7 @@
 
  <h1 align="center">Hi 👋, I'm Szymon Kaliczak</h1>
  
-### I'm aspiring Frontend Dev 👨‍💻 and passionate designer 🎨 from Poland
+### I'm an aspiring Frontend Dev 👨‍💻 and passionate designer 🎨 from Poland
  
 <br/>
 
